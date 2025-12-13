@@ -1,0 +1,45 @@
+
+## Bomberman | Bomber Man
+
+controls:
+
+	d-pad = move
+	A = drop a bomb
+	B (with the detonator powerup) = detonate a bomb
+
+basics:
+
+ - to finish a stage you must kill all the enemies and find the exit hiddden in a block. 
+   If the timer reaches 0, all enemies on the stage will be removed and replaced with 10 Pontans. Completing a stage will award you with an extra life (check the "LEFT" counter in the top-right).
+ - you can also find 1 powerup hidden in each stage (no more than 1), which is kept in the following stages:
+    - bomb = drop more than 1 bomb at a time
+    - fire = range increase
+    - heart = manual bombs denotator
+    - skates = move faster
+    - Wall Pass/bomb-walker
+    - Bomb Pass/wall-walker
+    - Fire Pass/flame-proof = permanent invicibility to bombs
+    - question mark = temp. invicibility
+ - do not bomb the exit or a powerup once it appear, because it will make more enemies appear.
+ - every 5 stages you will play a BONUS STAGE where you are invincible and can kill enemies for extra points.
+ - last STAGE: 50
+
+passwords:
+
+	00	BABABABABABABABABABA
+	10	DJEFPGGKGLPCGKMFEFEG
+	20	BADJODAHICDJNMEHIMNF
+	30	FEABECHCPAFEKGDNMIHJ
+	40	FEHIMCHPCGJNJDEFECPA
+	50	JDNMKLGJDJGGCPOLOMNF
+	Secret Level	BACDIHCLOAFHABDNMOLG
+
+sources:
+
+ - https://randomhoohaas.flyingomelette.com/bomb/nes-1/game.html
+ - https://gamefaqs.gamespot.com/nes/563390-bomberman/faqs/14622
+ - https://gamefaqs.gamespot.com/nes/563390-bomberman/cheats
+ - https://strategywiki.org/wiki/Bomberman
+ - https://archive.org/details/NESManuals/Bomberman%20%28USA%29/
+ - https://bomberman.fandom.com/wiki/Bomberman_(NES)
+ 
