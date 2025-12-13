@@ -21,6 +21,6 @@ Features Word Wrapping and scrolling with the d-pad (the current scrolling posit
 
 ## FAQs
 
-### How to make context-sensitive guides?
+### How to make a context-sensitive guide?
 
 See [RetroSubs](https://github.com/eadmaster/RetroSubs), or the [Lua scripting API](https://tasvideos.org/Bizhawk/LuaFunctions) it is based on.

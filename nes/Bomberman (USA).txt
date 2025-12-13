@@ -1,4 +1,6 @@
 
+<!-- vim: syntax=Markdown -->
+
 ## Bomberman | Bomber Man
 
 controls:
