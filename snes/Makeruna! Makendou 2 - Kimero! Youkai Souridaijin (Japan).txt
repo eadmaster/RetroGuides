@@ -1,0 +1,39 @@
+
+<!-- vim: syntax=Markdown -->
+
+## Makeruna! Makendou 2: Kimero Youkai Souri
+
+controls:
+
+	d-pad = move, jump, block (opposite direction of the attack)
+	Y = weak punch
+	X = strong punch
+	B = weak kick
+	A = strong kick
+	d-pad D, DF, F + Y | X = Hadouken-like attack
+	d-pad F, DF, D, DF = flame raising attack
+	d-pad B, DB, D, DB, B + R = use magic to increase damage (check the blue bar below the HP)
+
+main menu translation:
+
+	STORY MODE
+	VS MODE
+	OPTIONS
+		GAME DIFFICULTY (ゲームなんいど)
+			EASY (へなちょこモード)
+			NORMAL (まだまだモード) (DEFAULT)
+			HARD (ひどいモード)
+			VERY HARD (もうしないモード)
+		TIME (じかん)
+		BUTTON CONFIG (ボタンせってい)
+		SOUND TEST (サウンドテスト)
+		SOUND MODE (サウンドモード)
+		EXIT (おしまい)
+
+basics:
+
+ - last opponent in story mode: MAKENPO
+
+sources:
+
+ - https://gamefaqs.gamespot.com/snes/571245-makeruna-makendou-2-kimero-youkai-souri/faqs/64207

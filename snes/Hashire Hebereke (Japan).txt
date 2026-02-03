@@ -1,0 +1,45 @@
+
+## Hashire Hebereke
+
+controls:
+
+	d-pad = steer
+	Y = accelerate
+	B = jump
+	R = use item (check the icon in the top-left)
+	L = switch item (check the icons in the top-left)
+
+main menu translation:
+
+	1P Game
+		Story Mode (はしれへべ) = advance to the next race by getting at least in 3rd position.  Get 4th place and you lose the race and have to do the course again.
+		Time Attack (たいむあたっく)
+		Tag Mode (えんがちょ) = the character who has to catch the others is marked by a huge turd(!) hovering above their head.
+	2P Game
+		...
+	Options
+		Game Difficulty (けーむれべる)
+			Hard (うぴょー)	Normal (ぼげー)	 Easy (めたー)
+		Sound (さうんど)
+			Stereo	Mono
+		Shadow (ものかげ) = your char will be visible even behind walls, etc.
+			On (みえる)	 Off (みえない)
+		Movement control (こんとろーる)
+			Diagonal (らじこん)	Standard (みため)
+		Exit (めにゅーにもどる)
+
+basics:
+
+ - easier char: Sukezaemon (ghost with red wing cap)
+ - avoid running off track or touching the opponent.
+   Skipping a checkpoint will also make you lose a lap.
+ - some races you are taken to a bonus stage, where you have to race players and dodge a big black ball from squashing you. 
+   One of the main goal of the bonus stages are to collect items, which you could use for later courses for your advantage.
+   Winning or losing the bonus stage doesn't affect your winning streak.
+ - once you have completed the first 7 stages, you have to face clones of yourself, which if you do lose in any place under 1st, you have to do the course again. If you do go to the ending and finished all of the courses, the endings vary what character you use, as they are all unique and different.
+
+sources:
+
+ - https://hebereke.fandom.com/wiki/Hashire_Hebereke
+ - http://www.hardcoregaming101.net/hashire-hebereke/
+ - https://gamemanual.midnightmeattrain.com/entry/%E3%81%AF%E3%81%97%E3%82%8C%E3%81%B8%E3%81%B9%E3%82%8C%E3%81%91

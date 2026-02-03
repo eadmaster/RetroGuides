@@ -1,0 +1,68 @@
+
+controls:
+
+	d-pad = move, aim
+	X = jump
+	direction + 2x X = homing jump (jump to the pointed item or smiley ball)
+	X (while Homing Jump) = cancel jump
+	[] = throw at opponent (DAMAGE 100)
+	[] + direction = throw with Forward Drive (pass thru multiple enemies, DAMAGE 200)
+	[] + opposite direction = throw with Back Drive (slower, easier to avoid, DAMAGE 600)
+	/\ = throw at object (not very useful)
+	O + direction (near enemy) = direct attack (not much damage)
+	O (no direction) = block, reflect (exactly before being hit)
+	L1 | R1 = camera left|right
+
+Main menu translation:
+
+	Normal Mode		Versus Mode
+	Training Mode	Option Mode
+
+Option Mode translation:
+
+	User Friendly (ユーザーフレンドリー)
+		Vibration <on/*off*>
+		Game Set <*kids*/normal>
+			Camera Player Up (?) <_on_/*off*>
+			Field Camera <_90°_/*45°*>
+			Marker <on/_*off*_/translucent>
+			Game Speed <low/_*middle*_/high/super>
+	Sound
+		Mode <*Stereo*/Mono>
+		Music Volume <default 127>
+		Effect Volume <default 127>
+	Demonstration
+		Sctorial movie>
+		Movie <*On*/Off>	
+	Staff
+	Data
+		Auto Save <on/*off*>
+		Load
+		Save
+	Key Config
+		Throw at opponent <default S>
+		Throw at object   <default T>
+		Jump              <default X>
+		Special Attack    <default O>
+		Camera Left       <default L1>
+		No use 1(?)       <default L2>
+		Camera Right      <default R1>
+		No use 2 (?)      <default R2
+	Special
+		Stage Select (ステージセレクト) -> press up and down on the directional buttons for Level Select (レベルセレクト)
+		Fun (オタノシミ) (unlocks "Tests" in the other options)
+		Pause Display (ポーズヒョウジ)
+		Versus Restart (バーサスリスタート)
+
+basics:
+
+ - easier chars: Yukiwo, Marina (locked at the beginning)
+ - to finish a stage you must kill all the enemies that spawns on the screen.
+ - Super-Smiley-Attack: wait for the Smiley Ball to start flashing, then throw it to an opponent (1000-3000 damage)
+ - other goods attack items are: Black Holes, Big Rocks (1500 damage), ICBM/huge white missiles (1200 damage), Grenades (800 damage) 
+ - last stage: 13
+ 
+sources:
+
+ - https://gamefaqs.gamespot.com/ps/198402-rakugaki-showtime/faqs/7138
+ - http://www.hardcoregaming101.net/rakugaki-showtime/

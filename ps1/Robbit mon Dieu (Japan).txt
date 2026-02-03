@@ -1,0 +1,97 @@
+ 
+controls:
+
+	d-pad = move
+	X = jump (press again to double-jump) -> when jumping, check your landing point with the shadow
+	[] = fires punches (Only two can be on screen at a time)
+	/\ = stomp move (req. the battery gauge)
+	O = use special item (in you have it in the upper left side of the screen, must be equipped on the map screen before each stage)
+	R1 = gunsight, look around (standing still)
+
+menu translation:
+
+	FROM THE BEGINNING
+	CONTINUE
+	LOAD
+	SETTINGS
+		SOUND SETTINGS
+		CONTROL SETTINGS
+		BACK
+	CREDITS
+
+map menu:
+
+	View request form -> start mission
+	View training table
+	Change equipment/settings
+		Special item
+		Jump: automatic | manual
+		A1 mount?
+	Dot cards (view cards collected in stages)
+	System
+		Save
+		Load
+		Go to title screen
+
+mission objectives:
+
+ - 01: Reach the floating island with the house.
+ - 02: Collect nine bubbled frogs. Defeat the frogs to bubble them, including the large frog.
+ - 03: Grab the flying boxers.
+ - 04: Grab the EXIT pods and land on the EXIT pad.
+ - 05: Grab the EXIT pods and land on the EXIT pad within the time limit.
+ - 06: Defeat three waves of enemies.
+ - 07: Find and defeat the large frog.
+ - 08: Defeat all thirteen ghosts.
+ - 09: Defeat the boss.
+ - 10: Reach the goal within the time limit.
+ - 11: Reach the goal within the time limit.
+ - 12: Reach the goal within the time limit.
+ - 13: Reach the goal within the time limit.
+ - 14: Reach the goal within the time limit.
+ - 15: Travel through at least seven rings.
+ - 16: Travel through at least seven rings.
+ - 17: Travel through at least seven rings.
+ - 18: Use high-distance ground pounds to break wooden Xs and reveal three hot springs.
+ - 19: Defeat all fifteen birds. Jumping on the birds will damage you.
+ - 20: Jump on frying pan handles to flip eggs for two minutes. At least two must survive.
+ - 21: Defeat the boss.
+ - 22: Defeat the moles and save at least seven carrots. Moles can be unearthed by high-distance ground pounds on all farmer stages.
+ - 23: Defeat the moles and save at least seven carrots.
+ - 24: Defeat the moles and save at least nine carrots.
+ - 25: Defeat the moles and save at least eleven carrots.
+ - 26: Defeat the moles and save at least nine carrots.
+ - 27: Retrieve the envelope and bring it to the man at the starting point.
+ - 28: Defeat all twenty dragonflies.
+ - 29: Take all twenty pieces of firewood to the fire before it goes out. Only four pieces can be carried at a time and will add time when turned in.
+ - 30: Turn the four wooden switches.
+ - 31: Defeat the vulture carrying the scissors, then collect it.
+ - 32: Collect four keys then land on the button near the cage without the balloon breaking. Standing on the button will raise the balloon and prevent the train from hitting it.
+ - 33: Keep at least two engines on the plane until it lands. Punching an engine will temporarily repair it.
+ - 34: Defeat the three masked enemies. Either the circling airplane or vulture circling the tree will be needed to reach the enemy hiding at the top of the stage.
+ - 35: Land on all eight buttons within three minutes.
+ - 36: Defeat Black Robbit.
+ - 37: Reach the top of the obstacle course.
+ - 38: Reach the top of the obstacle course.
+ - 39: Knock twenty birds onto the ground before the flock disappears. Jump on birds from a good height to knock them down.
+ - 40: Reach the house at the top of the stage.
+ - 41: Collect the four fruits.
+ - 42: Jump on three buttons to open a gate.
+ - 43: Destroy the totem pole past the previously opened gate.
+ - 44: Collect the four food items trapped in ice.
+ - 45: Defeat the boss.
+ - 46: Defeat the boss.
+ - 47: Grab the EXIT pods and land on the EXIT pad.
+ - 48: Defeat the boss.
+
+basics:
+
+ - 30 of the first 46 stages must be cleared to access the final two stages.
+ - clearing all stages gives you unlimited specials and fast recharge on stomps.
+ - constantly check the remaning mission time
+
+sources:
+
+ - https://psxdatacenter.com/games/J/R/SCPS-10103.html
+ - http://www.hardcoregaming101.net/robbit-mon-dieu/
+ - https://www.speedrun.com/rmd/guides/jl4v4

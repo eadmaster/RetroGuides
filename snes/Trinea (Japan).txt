@@ -1,0 +1,29 @@
+
+<!-- vim: syntax=Markdown -->
+
+## Trinea | Penta Dragon 2
+
+controls (Sara):
+
+	d-pad = move, aim
+	A = focused attack
+	B = wide attack
+	Y = special attack (unlimited?)
+	X = bomb-like attack (req. 1+ star in the bottom-right)
+	half circle + B = dragon attack
+
+basics:
+
+ - press Select on the title screen to access the Configuration menu, where you can change the game difficulty.
+ - easier char: Sara (has ranged attacks)
+ - getting hit will the deplete the "P" gauge on the top-left. Visit certain NPCs to refill.
+ - collect coins by killing enemies to spend at the shop (accessed every time a save is loaded or a gameover):
+    - Life points +5 (gold cup)
+    - Attack power +1 (gauntlet)
+    - Bomb attack +1 (purple flask)
+ - last area: ... (Sara scenario).
+    
+sources:
+
+ - https://gamefaqs.gamespot.com/snes/570976-trinea/faqs/36391
+ - https://github.com/eadmaster/RetroSubs/blob/main/RetroSubs/Trinea%20(Japan).retrosub

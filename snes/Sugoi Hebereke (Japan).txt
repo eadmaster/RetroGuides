@@ -1,0 +1,64 @@
+
+<!-- vim: syntax=Markdown -->
+
+## Sugoi Hebereke
+
+controls:
+
+	d-pad = move, guard (opposite direction of the attack)
+	X = punch attack
+	X (near opponent) = throw
+	Y | A = kick attack
+	B = jump
+
+main menu translation:
+
+	Game Start (げーむすたーと) -> story mode 
+	Battle (たいせん) -> VS mode
+		Number of Players (たいせんにんずう)
+		1 Player (ひとり)
+		2 Players (ふたり)
+		3 Players (さんにん)
+		4 Players (よにん)
+		All-CPU Battle (かんせん)
+	Options (こんふいぐ)
+		Buttons Player 1 (ふれいやー1)
+			Jump () ... B
+			Punch (ぱんち) ... X
+			Kick (きっく) ... A
+		Game Level (げーむ れべる):	Very Easy (ぐう~)	Easy(うぴょ~) 	Normal(ほげ~)	Hard(うごげ~)
+	Environment Settings (かんきょう)
+		Sound (さうんど)
+			Stereo (すてれお)	 Mono (もめらる)
+		Time Limit (たいむせいげん)
+			On (あり)	Off (なん)
+		Traps (とらっぷ)
+			On (あり)	Off (なん)
+		Items (あいてむ)
+			On (あり)	Off (なん)
+		Starting Position (きしょう)
+			On (あり)	Off (なん)
+
+basics:
+
+ - easier char: Sukezaemon (ghost with red wing cap, has long range attacks, easy special moves: quick tap punch, 2xd-pad+kick to run away)
+ - to win a match you have to knock out (KO) the other opponents, or be the last standing with more health when the timer runs out.
+   Score 3 points and advance to the next battle.
+ - each stage is square-shaped and has its own environmental hazards and moving objects ().
+ - getting hit will deplete the blue gauge on the bottom-left.
+ - you can collect various items during a battle:
+   - Fruit of life = restore HP
+   - skull = poison (can be passed to an enemy)
+   - "P" = incr. attack power
+   - "D" = incr. defese power
+   - frisbee = incr. speed
+   - "!" = easy special moves (just press punch or kick)
+   - molotov cocktail = throw them with the kick button (they can damage yourself too)
+   - "?" box = random event
+ - last battle: 8th
+ 
+sources:
+
+ - https://gamemanual.midnightmeattrain.com/entry/%E3%81%99%E3%81%94%E3%81%84%E3%81%B8%E3%81%B9%E3%82%8C%E3%81%91
+ - https://gamefaqs.gamespot.com/snes/581943-sugoi-hebereke/cheats
+ - https://strategywiki.org/wiki/Sugoi_Hebereke
