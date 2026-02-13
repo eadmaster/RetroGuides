@@ -100,8 +100,8 @@ end
 starting_line = 0  -- global to keep state after closing
 
 function show_text(text_lines)
-    local x_pos = 0
-    local y_pos = 0
+    local x_pos = 1
+    local y_pos = 1
     local bg_color = "#DF000000" --0xEF000000  -- default: black (0xAARRGGBB)
     local fg_color = "#FFFFFFFF"  -- default: white
     local height_box = client.bufferheight()
@@ -203,13 +203,13 @@ function find_text(target_header)
     end
 
     if #result == 0 then
-	print("Header not found or section is empty.")
-	return false
+		print("Header not found or section is empty.")
+		return false
     else
-	print(table.concat(result, "\n"))
-	show_text(result)
-	--gui.addmessage("guide found, press Select+Start to see it")
-	return true
+		table.concat(result, "\n")
+		--show_text(result)
+		gui.addmessage("guide found, press Select+Start to see it")
+		return true
     end
 end
 
@@ -246,10 +246,10 @@ if using_global_guide_file then
 else
     -- just insert all the lines
     for _, line in ipairs(lines) do
-	table.insert(result, line)
+		table.insert(result, line)
     end
-    show_text(result)
-    --gui.addmessage("guide found, press Select+Start to see it")
+    --show_text(result)
+    gui.addmessage("guide found, press Select+Start to see it")
 end
 
 

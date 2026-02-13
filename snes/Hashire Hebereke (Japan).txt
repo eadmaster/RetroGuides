@@ -1,4 +1,6 @@
 
+<!-- vim: syntax=Markdown -->
+
 ## Hashire Hebereke
 
 controls:

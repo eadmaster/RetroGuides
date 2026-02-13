@@ -1,3 +1,6 @@
+<!-- vim: syntax=Markdown -->
+
+# Rakugaki Showtime
 
 controls:
 

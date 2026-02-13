@@ -1,0 +1,34 @@
+
+controls:
+
+	d-pad = move
+	2x d-pad left|right = run
+	X = jump (press again to double-jump)
+	[] = attack (press while running for a dash attack)
+	O = defend (reduce damage, prevent you from getting knocked back or stunned)
+	/\ = use bomb
+
+menu translation:
+
+	1-Player Mode
+	2-Player Mode
+	Options
+		Return to Title
+		Difficulty: Set the games' difficulty level. Options are Easy, Normal (default) and Hard.
+		Button Settings
+		Auto-Zoom: Turn the Auto-Zoom on or off(Default is On). The auto-zoom feature causes the screen to zoom out when your character is running or otherwise moving really quickly in order to give you more reaction time.
+		Voices: Turn on or turn off the in-game voices (default is On)
+		Rumble: Turn the Rumble on or off (default is On)
+
+basics:
+
+ - best beginner char: Natsumi
+ - WATCH. YOUR. TIME. The game ends if the clock runs out, and clocks are only found in a few places in the game.
+ - total areas: 13+
+
+sources:
+
+ - http://monkeypawgames.com/portfolio-item/rapid-angel/
+ - https://gamefaqs.gamespot.com/ps/573423-rapid-angel/cheats
+ - http://www.hardcoregaming101.net/kaisoku-tenshi-%e5%bf%ab%e9%80%9f%e5%a4%a9%e4%bd%bf-high-tension-comical-action-game-the-rapid-angel-playstation-psn-1998/
+ 

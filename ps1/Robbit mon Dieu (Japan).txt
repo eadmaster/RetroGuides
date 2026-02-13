@@ -1,4 +1,7 @@
- 
+<!-- vim: syntax=Markdown -->
+
+# Robbit mon Dieu
+
 controls:
 
 	d-pad = move
