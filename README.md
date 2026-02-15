@@ -10,7 +10,7 @@ Features Word Wrapping and scrolling with the d-pad (the current scrolling posit
 
 ## Preview 
 
-<img width="100%" height="100%" alt="demo1" src="https://github.com/eadmaster/RetroGuides/blob/master/demo1.png?raw=true">
+<img alt="demo1" src="https://github.com/eadmaster/RetroGuides/blob/main/demo1.png?raw=true">
 
 
 ## Setup
